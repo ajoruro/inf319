@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\obj\Debug\5_SumaRestaMultiDividConF.fsprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\bin\Debug\_5_SumaRestaMultiDividConF.exe.config
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\bin\Debug\_5_SumaRestaMultiDividConF.XML
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\bin\Debug\_5_SumaRestaMultiDividConF.exe
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\bin\Debug\_5_SumaRestaMultiDividConF.pdb
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\bin\Debug\FSharp.Core.dll
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\bin\Debug\FSharp.Core.xml
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\obj\Debug\_5_SumaRestaMultiDividConF.exe
+c:\users\david\documents\visual studio 2012\Projects\5_SumaRestaMultiDividConF\5_SumaRestaMultiDividConF\obj\Debug\_5_SumaRestaMultiDividConF.pdb
