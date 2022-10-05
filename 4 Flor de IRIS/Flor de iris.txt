@@ -1,0 +1,1 @@
+plot(iris[1:4], main = "Edwin David Poma Ajoruro Iris Data", pch = 21, bg = c("red", "green3", "blue")[unclass(iris$Species)])
