@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\bin\Debug\2_CalculadoraWindowsForm.exe.config
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\bin\Debug\2_CalculadoraWindowsForm.exe
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\bin\Debug\2_CalculadoraWindowsForm.pdb
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\obj\Debug\2_CalculadoraWindowsForm.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\obj\Debug\_2_CalculadoraWindowsForm.Form1.resources
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\obj\Debug\_2_CalculadoraWindowsForm.Properties.Resources.resources
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\obj\Debug\2_CalculadoraWindowsForm.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\obj\Debug\2_CalculadoraWindowsForm.exe
+c:\users\david\documents\visual studio 2012\Projects\2_CalculadoraWindowsForm\2_CalculadoraWindowsForm\obj\Debug\2_CalculadoraWindowsForm.pdb
